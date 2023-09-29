@@ -58,5 +58,7 @@ system integration with a microcontroller.
 
 # Important links
 •[Community support page](https://community.bosch-sensortec.com/t5/MEMS-sensors-forum/bd-p/bst_community-mems-forum)
+![image](https://github.com/YEK-Kayra/BMP180_Driver/assets/124110070/cbaccca6-44a4-4eb8-8b97-48de69503b98)
+
 
 
