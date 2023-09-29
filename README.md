@@ -11,13 +11,21 @@ system integration with a microcontroller.
 
 # Key features
 • Pressure range: 300 ... 1100hPa (+9000m ... -500m relating to sea level)
+
 • Supply voltage: 1.8 ... 3.6V (VDD)
+
 • 1.62V ... 3.6V (VDDIO)
+
 • Package: LGA package with metal lid
+
 • Small footprint: 3.6mm x 3.8mm
+
 • Super-flat: 0.93mm height
+
 • Low power: 5µA at 1 sample / sec. in standard mode
+
 • Low noise: 0.06hPa (0.5m) in ultra low power mode
+
 • 0.02hPa (0.17m) advanced resolution mode
 
 - Temperature measurement included
@@ -38,10 +46,15 @@ system integration with a microcontroller.
 
 # Typical applications
 •Enhancement of GPS navigation (dead-reckoning, slope detection, etc.)
+
 • In- and out-door navigation
+
 • Leisure and sports
+
 • Weather forecast
+
 •Vertical velocity indication (rise/sink speed)
+
 
 # Important links
 •[Community support page](https://community.bosch-sensortec.com/t5/MEMS-sensors-forum/bd-p/bst_community-mems-forum)
